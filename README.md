@@ -67,10 +67,4 @@
 
 </div>
 
----
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/Ghazicode?tab=repositories)
-  
-</div>
