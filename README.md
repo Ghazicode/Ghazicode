@@ -55,7 +55,7 @@
   
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghazicode&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[نام کاربری شما]&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghazicode&layout=compact&theme=radical)
 
 </div>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=[نام کاربری شما]&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ghazicode&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -71,6 +71,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/[نام کاربری شما]/[نام کاربری شما]/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ghazicode/Ghazicode/blob/output/github-contribution-grid-snake.svg)
   
 </div>
