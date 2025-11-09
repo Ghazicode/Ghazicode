@@ -63,7 +63,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ghazicode&theme=radical)](https://git.io/streak-stats)
+  [![CLICK HERE FOR ALL MY REPOS](?user=Ghazicode&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
