@@ -71,6 +71,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Ghazicode/Ghazicode/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ghazicode?tab=repositories)
   
 </div>
