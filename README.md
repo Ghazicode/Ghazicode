@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=3000&pause=1000&color=7CFC00&lines=Backend+Developer;Django+Expert;Python+Enthusiast;Problem+Solver;DRF+Specialist;" />
 </div>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Main skills:
 
 <div align="center">
   
