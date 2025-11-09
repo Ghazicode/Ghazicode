@@ -63,7 +63,7 @@
 
 <div align="center">
   
-  [![CLICK HERE FOR ALL MY REPOS](?user=Ghazicode&theme=radical)](https://git.io/streak-stats)
+  [![CLICK HERE FOR ALL MY REPOS](/?user=Ghazicode&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
