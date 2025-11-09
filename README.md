@@ -59,11 +59,22 @@
 
 </div>
 
+## 💻 Most Used Languages
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
 ## 🔥 Streak Stats
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=[نام کاربری شما]&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Ghazicode&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -71,6 +82,6 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/[نام کاربری شما]/[نام کاربری شما]/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ghazicode/Ghazicode/blob/output/github-contribution-grid-snake.svg)
   
 </div>
